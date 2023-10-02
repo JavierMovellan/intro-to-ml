@@ -1,6 +1,7 @@
 # intro-to-ml
 
-Python scripts to help people beginning on Machine Learning
+Python scripts to help people beginning on Machine 
+Learning
 
 Here are URLs to Collabs
 
